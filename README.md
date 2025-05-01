@@ -1,6 +1,6 @@
 # 💻 15 JavaScript Logic Exercises
 
-Este repositório contém 15 exercícios de lógica de programação desenvolvidos em JavaScript.  
+Este repositório contém **15 exercícios de lógica de programação desenvolvidos em JavaScript**.  
 Os desafios foram propostos durante o curso **Dev Full-Stack Jr.** oferecido pela **+praTi** e têm como objetivo fortalecer a lógica de programação, o raciocínio algorítmico e a prática com a linguagem JavaScript.
 
 ## 📚 Conteúdo
@@ -20,7 +20,7 @@ Os exercícios abordam temas como:
 npm install prompt-sync
 ```
 
-Em cada exercício que exige entrada do usuário, a biblioteca `prompt-sync` é utilizada para capturar os dados via terminal.
+A biblioteca `prompt-sync` é utilizada para capturar os dados via terminal nos exercícios que exigem entrada.
 
 ## 📂 Lista de Exercícios
 
