@@ -63,7 +63,7 @@ A biblioteca `prompt-sync` é utilizada para capturar os dados via terminal nos 
 Você pode rodar os arquivos localmente utilizando o Node.js. No terminal, digite:
 
 ```bash
-node exercicio01.js
+node 01-par-ou-impar.js
 ```
 Substitua o nome do arquivo conforme o exercício que deseja executar.
 Siga as instruções exibidas no terminal.
