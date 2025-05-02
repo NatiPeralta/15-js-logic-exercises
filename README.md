@@ -40,6 +40,24 @@ A biblioteca `prompt-sync` é utilizada para capturar os dados via terminal nos 
 14. **Cálculo Fatorial** – Calcula o fatorial de um número inserido.
 15. **Sequência de Fibonacci** – Gera os 10 primeiros números da sequência de Fibonacci.
 
+## 🔗 Acesso rápido aos exercícios
+
+1. [01-par-ou-impar.js](./01-par-ou-impar.js)
+2. [02-classificacao-idade.js](./02-classificacao-idade.js)
+3. [03-classificacao-nota.js](./03-classificacao-nota.js)
+4. [04-menu-interativo.js](./04-menu-interativo.js)
+5. [05-calculadora-imc.js](./05-calculadora-imc.js)
+6. [06-tipo-triangulo.js](./06-tipo-triangulo.js)
+7. [07-numero-macas.js](./07-numero-macas.js)
+8. [08-ordem-crescente.js](./08-ordem-crescente.js)
+9. [09-contagem-regressiva.js](./09-contagem-regressiva.js)
+10. [10-repeticao-numero.js](./10-repeticao-numero.js)
+11. [11-soma-numeros.js](./11-soma-numeros.js)
+12. [12-tabuada.js](./12-tabuada.js)
+13. [13-media-aritmetica.js](./13-media-aritmetica.js)
+14. [14-fatorial.js](./14-fatorial.js)
+15. [15-fibonacci.js](./15-fibonacci.js)
+
 ## ▶️ Como executar
 
 Você pode rodar os arquivos localmente utilizando o Node.js. No terminal, digite:
