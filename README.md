@@ -42,21 +42,21 @@ A biblioteca `prompt-sync` é utilizada para capturar os dados via terminal nos 
 
 ## 🔗 Acesso rápido aos exercícios
 
-1. [01-par-ou-impar.js](./01-par-ou-impar.js)
-2. [02-classificacao-idade.js](./02-classificacao-idade.js)
-3. [03-classificacao-nota.js](./03-classificacao-nota.js)
-4. [04-menu-interativo.js](./04-menu-interativo.js)
-5. [05-calculadora-imc.js](./05-calculadora-imc.js)
-6. [06-tipo-triangulo.js](./06-tipo-triangulo.js)
-7. [07-numero-macas.js](./07-numero-macas.js)
-8. [08-ordem-crescente.js](./08-ordem-crescente.js)
-9. [09-contagem-regressiva.js](./09-contagem-regressiva.js)
-10. [10-repeticao-numero.js](./10-repeticao-numero.js)
-11. [11-soma-numeros.js](./11-soma-numeros.js)
-12. [12-tabuada.js](./12-tabuada.js)
-13. [13-media-aritmetica.js](./13-media-aritmetica.js)
-14. [14-fatorial.js](./14-fatorial.js)
-15. [15-fibonacci.js](./15-fibonacci.js)
+1. [01-par-ou-impar.js](./js-exercises/01-par-ou-impar.js)
+2. [02-classificacao-idade.js](./js-exercises/02-classificacao-idade.js)
+3. [03-classificacao-nota.js](./js-exercises/03-classificacao-nota.js)
+4. [04-menu-interativo.js](./js-exercises/04-menu-interativo.js)
+5. [05-calculadora-imc.js](./js-exercises/05-calculadora-imc.js)
+6. [06-tipo-triangulo.js](./js-exercises/06-tipo-triangulo.js)
+7. [07-numero-macas.js](./js-exercises/07-numero-macas.js)
+8. [08-ordem-crescente.js](./js-exercises/08-ordem-crescente.js)
+9. [09-contagem-regressiva.js](./js-exercises/09-contagem-regressiva.js)
+10. [10-repeticao-numero.js](./js-exercises/10-repeticao-numero.js)
+11. [11-soma-numeros.js](./js-exercises/11-soma-numeros.js)
+12. [12-tabuada.js](./js-exercises/12-tabuada.js)
+13. [13-media-aritmetica.js](./js-exercises/13-media-aritmetica.js)
+14. [14-fatorial.js](./js-exercises/14-fatorial.js)
+15. [15-fibonacci.js](./js-exercises/15-fibonacci.js)
 
 ## ▶️ Como executar
 
