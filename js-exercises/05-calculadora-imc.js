@@ -3,11 +3,13 @@
 
 const prompt = require('prompt-sync')()
 
+//JavaScript não le entradas de usuarios que tenham ',' por isso utilizamos 'replace'
 let altura = parseFloat(prompt('Por favor, digite a sua altura: ').replace(',', '.'))
 let peso = parseFloat(prompt('Por favor, digite o seu peso: ').replace(',', '.'))
 
 let IMC = peso/(altura * altura)
 
+//toFixed(2) formata o resultado para duas casas decimais, como 24.21.
 console.log(`O seu IMC é ${IMC.toFixed(2)}`)
 
 if(IMC < 18.5){
