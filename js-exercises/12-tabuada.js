@@ -5,7 +5,7 @@ const prompt = require('prompt-sync')()
 let number = Number(prompt('Digite um número de 1 a 10 para exibir a tabuada: '))
 
 if(number >= 1 && number <= 10){
-    console.log(`A tabuada do número ${number} é: `)
+    console.log(`\nA tabuada do número ${number} é: `)
     for(let i = 1; i <= 10; i++){ 
         console.log(`${number} x ${i} é: ${number * i}`)
     }
